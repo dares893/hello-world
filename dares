@@ -13,4 +13,24 @@ console.log(`The temperature ${Newton} degrees Newton.`);
 
 
 
+dog years project
+
+/ my current age
+const myage = 100
+;
+// my early age
+let earlyYears = 2;
+earlyYears *=10.5;
+//value of later years
+let lateryears = myage - 2;
+lateryears *= 4;
+console.log(earlyYears);
+console.log(lateryears);
+let myAgeInDogyears = (earlyYears+lateryears);
+let myname = 'Ssegonga medy'.toLowerCase();
+console.log(`my name is ${myname}.l am ${myAgeInDogyears}.in dog years`);
+
+
+
+
 

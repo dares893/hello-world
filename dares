@@ -30,7 +30,16 @@ let myAgeInDogyears = (earlyYears+lateryears);
 let myname = 'Ssegonga medy'.toLowerCase();
 console.log(`my name is ${myname}.l am ${myAgeInDogyears}.in dog years`);
 
+// future review
 
+let tool = '';
+
+tool = 'marker';
+
+// Use short circuit evaluation to assign writingUtensil variable below:
+let writingUtensil = tool || 'pen';
+
+console.log(`The ${writingUtensil} is mightier than the sword.`);
 
 
 
